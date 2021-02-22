@@ -13,7 +13,7 @@ import (
 )
 
 const (
-    BUCKET_NAME = "test-logs-dp"
+    BUCKET_NAME = "" // TODO: Load bucket name from JSON too
 )
 
 var (

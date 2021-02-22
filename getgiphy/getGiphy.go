@@ -10,7 +10,7 @@ import (
 )
 
 const (
-    GIPHY_API_KEY = "Y4VOEPAxCr4lpdGhtYC5AZmZLV2wP3dF"
+    GIPHY_API_KEY = "" //TODO: Load API key from json too
     BASE_GIPHY = "https://api.giphy.com/v1"
 )
 
